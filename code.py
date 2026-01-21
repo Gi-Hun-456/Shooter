@@ -203,6 +203,7 @@ while game:
             finish = True
 
         if lifc <= 0:
+            mixer.music.stop()
             finish = True
             win.blit(screamer, (0, 0))
             sos.play()
