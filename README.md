@@ -11,7 +11,7 @@ Move up - ***W***
 
 Move down - ***S***
 
-Move left - ***A**
+Move left - ***A***
 
 Move right - ***D***
 
