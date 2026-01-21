@@ -17,5 +17,3 @@ Move right - ***D***
 
 Shoot - ***SPACE BAR***
 
-
-![Uploading Снимок экрана 2026-01-21 104256.png…]()
