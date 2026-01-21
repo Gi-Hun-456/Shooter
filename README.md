@@ -8,7 +8,11 @@ You can also change the game how you want but for it you should have ***VsCode**
 
 
 Move up - ***W***
+
 Move down - ***S***
+
 Move left - ***A**
+
 Move right - ***D***
+
 Shoot - ***SPACE BAR***
