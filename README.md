@@ -1,4 +1,5 @@
 **Description**
+
 Cool shooter with epic gameplay and fantastic characters! Dive into world of tasty dishes and help Chef Viktor Barinov save his kitchen from evil humanoid monsters known as ***OGUZKI*** and Nagiev eggs!
 
 To start open folder with game and run file ***shooter_game.exe***
