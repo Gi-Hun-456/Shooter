@@ -195,7 +195,7 @@ while game:
             win.blit(wonb, (0, 0))
             finish = True
  
-        if lost >= 2:
+        if lost >= 20:
             mixer.music.stop()
             win.blit(loosebat, (490, 500))
             los = mixer.Sound('chefder.ogg')
